@@ -1,4 +1,6 @@
-### Hi there 👋
+### JeongJin Lee 👋
+
+<img align = 'right' src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=sso07012">
 
 <!--
 **dl-00-e8/dl-00-e8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
