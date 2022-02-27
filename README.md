@@ -13,9 +13,6 @@
 #### Skills
 <img alt = "C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img alt = "Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img alt = "Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
-#### 자격증
-* 네트워크 관리사 2급
-
 
 
 
