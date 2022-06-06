@@ -4,7 +4,7 @@
 > 
 > Want to be Back-end Engineer.
 
-<img align = 'right' src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=sso07012">
+<!-- <img align = 'right' src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=sso07012"> -->
 
 #### Experience
 * Hongik University Computer Engineering (2019. 03 ~ Now)
