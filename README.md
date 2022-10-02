@@ -1,6 +1,5 @@
 ### JeongJin Lee 🎈
 
-> I'm intersting in studying Node.js.
 > 
 > Want to be Back-end Engineer.
 
