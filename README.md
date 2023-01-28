@@ -3,7 +3,9 @@
 > 
 > Want to be Back-end Engineer.
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sso07012)](https://solved.ac/sso07012) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dl-00-e8&hide=stars,issues&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sso07012)](https://solved.ac/sso07012) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dl-00-e8&show_icons=true&theme=dark) 
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dl-00-e8&layout=compact&theme=dark)-->
 
 #### Experience
 * Hongik University Computer Engineering (2019. 03 ~ Now)
@@ -11,8 +13,10 @@
 * Kusitms 26기 (2022. 08 ~ 2022. 11)
 
 #### Skills
-<img alt = "C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img alt = "Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<!-- <img alt = "Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
+#### Studying
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 
 <!--
