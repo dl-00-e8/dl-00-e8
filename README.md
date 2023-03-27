@@ -9,9 +9,10 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dl-00-e8&layout=compact&theme=dark)-->
 
 #### Experience
-* Hongik University Computer Engineering (2019. 03 ~ Now)
+* Hongik University Computer Engineering & Business Administration (2019. 03 ~ Now)
 * 공군 정보보호병 (2020. 06 ~ 2022. 03)
 * Kusitms 26기 (2022. 08 ~ 2022. 11)
+* SW 마에스트로 14기 (2023. 04 ~ Now)
 
 #### Skills
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
