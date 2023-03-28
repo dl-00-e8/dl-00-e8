@@ -4,7 +4,7 @@
 > Want to be Back-end Engineer.
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sso07012)](https://solved.ac/sso07012) 
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dl-00-e8&show_icons=true&theme=dark)-->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dl-00-e8&show_icons=true&theme=dark)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dl-00-e8&layout=compact&theme=dark)-->
 
