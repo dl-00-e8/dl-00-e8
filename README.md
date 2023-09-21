@@ -1,7 +1,5 @@
-### JeongJin Lee 🎈
+### [JeongJin Lee](https://wjdwls.notion.site/JeongJin-21c3d7ce89ab4e3b8d5d109d0b2f732b?pvs=4) 🎈
 
-> 
-> Want to be Back-end Engineer.
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sso07012)](https://solved.ac/sso07012) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dl-00-e8&show_icons=true&theme=dark)
@@ -13,6 +11,7 @@
 * 공군 정보보호병 (2020. 06 ~ 2022. 03)
 * Kusitms 26기 (2022. 08 ~ 2022. 11)
 * SW 마에스트로 14기 (2023. 04 ~ Now)
+* 홍익 UMC 5기 (2023. 09 ~ Now)
 
 #### Skills
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
