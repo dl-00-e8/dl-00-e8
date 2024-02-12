@@ -11,7 +11,7 @@
 
 #### Experience
 * Hongik University Computer Engineering & Business Administration (2019. 03 ~ Now)
-* Republic of Korea Air Force Cyber Operation Center, nformation security situation soldier service (2020. 06 ~ 2022. 03)
+* Republic of Korea Air Force Cyber Operation Center, Information security situation soldier service (2020. 06 ~ 2022. 03)
 * Kusitms 26th (2022. 08 ~ 2022. 11)
 * SW Maestro 14th (2023. 04 ~ Now)
 * HIUMC 5th (2023. 09 ~ Now)
