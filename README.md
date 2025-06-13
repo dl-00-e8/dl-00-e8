@@ -4,7 +4,7 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dl-00-e8&layout=compact&theme=dark)-->
 #### Work
 * Youdongsan, Software Engineer(2024. 01 ~ 2024. 08 / Full time)
-* Genideas, Backend Engineer(2025. 01 ~ Now / Part time)
+* Genideas, Backend Engineer(2025. 01 ~ 2025. 04 / Part time)
 
 
 #### Experience
