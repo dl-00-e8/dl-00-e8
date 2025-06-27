@@ -5,6 +5,7 @@
 #### Work
 * Youdongsan, Software Engineer(2024. 01 ~ 2024. 08 / Full time)
 * Genideas, Backend Engineer(2025. 01 ~ 2025. 04 / Part time)
+* Shinhan Bank, Developer(2025. 07 ~ 2025. 08 / Intern)
 
 
 #### Experience
